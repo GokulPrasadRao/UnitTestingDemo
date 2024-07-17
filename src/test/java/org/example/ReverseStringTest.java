@@ -10,5 +10,4 @@ class ReverseStringTest {
         assertEquals("lukog", ReverseString.reverseString("gokul"));
         assertNotEquals("abcd", ReverseString.reverseString("abcd"));
     }
-
 }
